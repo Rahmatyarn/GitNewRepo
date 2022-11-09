@@ -7,5 +7,9 @@ public class ICanLearnGit {
 		
 		System.out.println("I learn this or I will fast for rest of the night");
 	}
+	
+	public void thisIsFunWhenItWorks() {
+		System.out.println("I will learn it regardless");
+	}
 
 }
